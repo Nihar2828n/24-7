@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Nihar-3N3H.aternos.me:63987",
+    "ip": "Nihar-3N3H.aternos.me",
     "port": 63987,
     "version": "",
     "try-creative": false
